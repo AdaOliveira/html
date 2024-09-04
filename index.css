@@ -3,7 +3,7 @@ body{
     position: relative;
     background-color: pink;
 }
-h1, h2, h5{
+header {
     color: aliceblue;
     text-align: center;
 }
